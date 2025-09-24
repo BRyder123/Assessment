@@ -7,7 +7,7 @@
 .myPage {
   }
   .MyHeader {
-  width: 92.05%;
+  width: 50%;
   background-color: yellow;
   height: 120px;
   padding: 5px;
@@ -55,3 +55,4 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
     }
+
